@@ -3,12 +3,11 @@
 UML Code gen is a cli tool created in node in order to generate the Boilerplate code for the given Class diagram in form of JSON format. 
 
 ## Installation
-<!---
 Use the package manager [npm](https://www.npmjs.com/) to install uml-code-gen.
 ```bash
-npm install -g uml-code-gen
+npm i -g uml-code-gen
 ```
--->
+
 For Local, you can run the script just like any other Node.js application. Try entering the following from the command line.
 ```bash
 node .
