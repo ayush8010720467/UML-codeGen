@@ -1,0 +1,18 @@
+{
+    "language": "java",
+    "extinction": ".java",
+    "classes": [
+      {
+        "name": "A",
+        "extends": ["B"]
+      },
+      {
+        "name": "B",
+        "extends": ["C"]
+      },
+      {
+        "name": "C",
+        "extends": []
+      }
+    ]
+  }
