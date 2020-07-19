@@ -1,4 +1,4 @@
-# UML Code Gene
+# UML Code Gen
 
 UML Code gen is a cli tool created in node in order to generate the Boilerplate code for the given Class diagram in form of JSON format. 
 
