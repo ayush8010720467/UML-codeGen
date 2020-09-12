@@ -1,7 +1,14 @@
 {
   "name": "uml-code-gen",
-  "version": "1.0.0",
-  "description": "First basic cli tool",
+  "description": "UML Code gen is a cli tool created in node in order to generate the Boilerplate code for the given Class diagram in form of JSON format",
+    "version": "1.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ayush8010720467/UML-codeGen.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ayush8010720467/UML-codeGen/issues"
+    },
   "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

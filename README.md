@@ -29,7 +29,7 @@ npm uninstall -g uml-code-gen
 ```bash
 codegen -j <JSON file location> -d <Destination of the generated files>
 ```
-Please download the ```test.json``` file as a sample signature for the JSON file and make changes accordingly.
+Please download the [test.json](https://github.com/ayush8010720467/UML-codeGen/blob/master/test.json) file as a sample signature for the JSON file and make changes accordingly.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
