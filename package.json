@@ -16,6 +16,13 @@
   "bin": {
     "codegen": "./bin/index.js"
   },
+   "keywords": [
+    "UML",
+    "json",
+    "Code generation",
+    "Generate Java code",
+    "Class Diagram"
+  ],
   "author": "Ayush",
   "license": "MIT",
   "dependencies": {
